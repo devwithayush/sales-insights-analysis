@@ -1,13 +1,17 @@
 # 📊 Sales Insights Analysis
 
-A simple and clean sales data analysis project built using Python.
+This project focuses on understanding sales performance and extracting meaningful business insights.
 
-This project demonstrates:
+## 🔄 Project Workflow
 
-- Data Cleaning and Transformation
-- Data Analysis using Pandas
-- Data Visualization using Matplotlib
-- Structured data analysis workflow
+I followed a simple step-by-step process:
+
+- 📥 Extract → Loaded the dataset  
+- 🔍 Check → Explored the data and checked its structure  
+- 🧹 Transform → Cleaned the data and created new columns  
+- 📊 Analyze → Performed analysis on different parts of the data  
+- 📈 Visualize → Created graphs to understand patterns  
+- 💡 Insights → Summarized key findings  
 
 ---
 
@@ -35,7 +39,7 @@ This project demonstrates:
 ---
 
 ## 📁 Project Structure
-
+```
 sales-insights-analysis/
 │
 ├── data/
@@ -55,6 +59,7 @@ sales-insights-analysis/
 ├── requirements.txt
 └── .gitignore
 
+```
 ---
 
 ## ⚙️ How to Run
